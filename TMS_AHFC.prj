@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MatlabProject>
+  <Name>TMS_AHFC</Name>
+  <RootPath>.</RootPath>
+  <StartupFile>scripts/startup.m</StartupFile>
+  <ProjectPath>
+    <Folder>model</Folder>
+    <Folder>data</Folder>
+    <Folder>scripts</Folder>
+    <Folder>experiments</Folder>
+    <Folder>results</Folder>
+    <Folder>docs</Folder>
+  </ProjectPath>
+  <Dependencies>
+    <Toolbox>MATLAB</Toolbox>
+  </Dependencies>
+</MatlabProject>
